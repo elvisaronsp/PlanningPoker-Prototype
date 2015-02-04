@@ -1,5 +1,5 @@
 {
-  "name": "Planning Poker",
+  "name": "planning-poker",
   "description": "A scrum planning tool",
   "version": "0.0.1",
   "engines": {
